@@ -3,3 +3,6 @@ Recommends movies similar to the movie user likes and analyses sentiments on the
 
 
 Dataset was taken from https://grouplens.org/datasets/movielens/
+
+Try out my Movie Recommender System to get some good movie suggestions:
+https://jasminemovieapp.herokuapp.com/
