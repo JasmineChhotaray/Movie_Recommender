@@ -17,7 +17,7 @@ Link: https://jasminemovieapp.herokuapp.com/
 
 
 Technologies used
-_____________________________________________________________________________________________
+---------------------------------------------------------------------------------------------------------------------
 ![image](https://user-images.githubusercontent.com/55586376/155333611-fb442e0a-0d38-4110-be09-d480a5ba2bae.png)
 
 ![image](https://user-images.githubusercontent.com/55586376/155333664-40a638a7-d86b-4e9e-b710-b4e89b6de332.png)
