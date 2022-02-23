@@ -20,4 +20,5 @@ Technologies used
 ---------------------------------------------------------------------------------------------------------------------
 ![image](https://user-images.githubusercontent.com/55586376/155333611-fb442e0a-0d38-4110-be09-d480a5ba2bae.png)
 
-https://camo.githubusercontent.com/3638770a498aa8a62be0fb35f9217dbc78a50d739e1f6cdc64ef88def23aa1ec/68747470733a2f2f666c61736b2e70616c6c65747370726f6a656374732e636f6d2f656e2f312e312e782f5f696d616765732f666c61736b2d6c6f676f2e706e67
+![image](https://user-images.githubusercontent.com/55586376/155424193-c25e7cd1-52b3-4c23-a399-f030fba68925.png)
+
